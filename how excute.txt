@@ -1,0 +1,5 @@
+Step 1. enter the folder
+Step 2. python -m venv venv
+step 3. .\venv\Scripts\Activate.ps1
+Step 4. pip install -r requirements.txt
+Step 5. python phishing_detector.py
